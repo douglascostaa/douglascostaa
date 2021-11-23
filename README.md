@@ -1,4 +1,4 @@
-Seja bem-vindo!
+Seja bem-vindo! 🎉
 
-Sou Douglas Costa.
+Sou Douglas Costa. 👩‍💻
 
