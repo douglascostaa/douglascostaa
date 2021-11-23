@@ -1,4 +1,4 @@
-💻
 
-## Welcome!🎉 I'm Douglas Costa!
+
+## Welcome!🎉💻 I'm Douglas Costa!
 
