@@ -1,9 +1,8 @@
 
 
 <div align="center">
- <text> Welcome!🎉💻 </text>
- <text> I'm Douglas Costa! </text>  
-  
+ <strong> Welcome!🎉💻 </strong>
+ <strong> I'm Douglas Costa! </strong>  
 </div>
 
 <div align="center">
